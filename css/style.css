@@ -2,6 +2,8 @@
 
 /* Basic CSS starts */
 
+body{-webkit-filter: grayscale(100%);}
+
 *{
 	font-family: Microsoft YaHei,Helvetica,Arial,sans-serif;
 	white-space: normal;
@@ -9,6 +11,7 @@
 html{font-size:62.5%}
 body
 {
+    
     font-size:14px;
     margin:0;
     padding:0;
